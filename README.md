@@ -6,7 +6,7 @@ Análise de registros de criminalidade em Londres utilizando **Google BigQuery, 
 
 > A imagem do dashboard será adicionada ao repositório após a finalização do projeto.
 
-![London Crime Dashboard](images/dashboard_overview.png)
+![London Crime Dashboard](dash/dashboard.png)
 
 ## 🎯 Objetivo
 
