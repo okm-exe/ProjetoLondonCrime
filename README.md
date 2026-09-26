@@ -55,12 +55,11 @@ crime-london/
 │
 ├── data/
 │   ├── raw/
+│   │   └── crime_london_raw.csv
 │   └── ready/
-│
-├── dashboard/
-│   └── london_crime_dashboard.pbix
-│
-└── images/
+│       └── crime_london_ready.csv
+└── dash/
+    └── london_crime_dashboard.pbix
     └── dashboard_overview.png
 ```
 
